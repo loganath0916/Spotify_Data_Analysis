@@ -28,9 +28,14 @@ Analyze → Use Pandas and Matplotlib to explore and visualize insights.
 
 -----
 
+##USECASE:
+-1. Top 5 Most Popular Tracks
+-2. Longest Songs (by duration) 
+-3. Average Popularity Across All Tracks
+
+----
+
 ##SCREENSHOT
 ![Mysql_db](images/db.png)
 ![1. Top 5 Most Popular Tracks](images/usecase1.png) 
 ![2. Longest Songs (by duration) & 3. Average Popularity Across All Tracks](images/usecase2&3.png)
-
-
